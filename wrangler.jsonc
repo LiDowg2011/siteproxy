@@ -1,7 +1,7 @@
 {
   // for cf pages deployment
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "siteproxy",  // ← RIGHT HERE, use "siteproxy"
+  "name": "cranston-unblocker-v69",  // ← RIGHT HERE, use "siteproxy"
   "pages_build_output_dir": "build/cf_page",
   "compatibility_date": "2025-07-23",
   "compatibility_flags": ["nodejs_compat"],
